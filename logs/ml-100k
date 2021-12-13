@@ -1,0 +1,73 @@
+2021-12-05 16:31:30,843 - /root/autodl-nas/MyCode/MyModel.py[line:398] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-05 16:31:44,199 - /root/autodl-nas/MyCode/MyModel.py[line:404] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 13s
+2021-12-05 16:31:44,201 - /root/autodl-nas/MyCode/MyModel.py[line:239] - INFO: ml-100k  100federated 参数下载更新完成................等待训练
+2021-12-05 16:40:07,543 - /root/autodl-nas/MyCode/MyModel.py[line:298] - INFO: ml-100k  Episode 100/1000 Reward=2207 Time=3496s   Loss=0.137297
+2021-12-05 16:40:07,544 - /root/autodl-nas/MyCode/MyModel.py[line:324] - INFO: ml-100k  100 上传参数
+2021-12-05 16:40:07,551 - /root/autodl-nas/MyCode/MyModel.py[line:326] - INFO: ml-100k  100 上传参数完成
+2021-12-05 16:40:07,551 - /root/autodl-nas/MyCode/MyModel.py[line:421] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-05 16:40:33,752 - /root/autodl-nas/MyCode/MyModel.py[line:476] - INFO: 1/1  测试准确率 target=  Falseratings=350unknown=1540
+2021-12-05 16:40:33,753 - /root/autodl-nas/MyCode/MyModel.py[line:479] - INFO:   81.481481% unknown  准确率 0.185185% 
+2021-12-05 16:40:55,232 - /root/autodl-nas/MyCode/MyModel.py[line:476] - INFO: 1/1  测试准确率 target=  Trueratings=350unknown=1540
+2021-12-05 16:40:55,232 - /root/autodl-nas/MyCode/MyModel.py[line:479] - INFO:   81.481481% unknown  准确率 0.185185% 
+2021-12-05 16:40:55,239 - /root/autodl-nas/MyCode/MyModel.py[line:237] - INFO: ml-100k  101federated 等待参数上传中................
+2021-12-06 11:58:01,457 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 11:58:01,709 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: params/ml-100k-0_130_
+2021-12-06 11:58:01,948 - /root/autodl-nas/MyCode/MyModel.py[line:421] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-06 11:58:26,280 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 1/2  测试准确率 target=  False  ratings=431unknown=1459
+2021-12-06 11:58:26,280 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 11:58:26,280 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.189206% recall
+2021-12-06 11:58:26,280 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.206817% F1
+2021-12-06 11:58:26,280 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   77.195767% unknown  准确率 0.228042% 
+2021-12-06 11:58:45,734 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 2/2  测试准确率 target=  False  ratings=862unknown=2918
+2021-12-06 11:58:45,735 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 11:58:45,735 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.189206% recall
+2021-12-06 11:58:45,735 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.206817% F1
+2021-12-06 11:58:45,735 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   77.195767% unknown  准确率 0.228042% 
+2021-12-06 11:59:04,863 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 1/1  测试准确率 target=  True  ratings=431unknown=1459
+2021-12-06 11:59:04,863 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 11:59:04,863 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.189206% recall
+2021-12-06 11:59:04,863 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.206817% F1
+2021-12-06 11:59:04,863 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   77.195767% unknown  准确率 0.228042% 
+2021-12-06 11:59:16,670 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 11:59:16,924 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: params/ml-100k-0_130_
+2021-12-06 11:59:17,156 - /root/autodl-nas/MyCode/MyModel.py[line:421] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-06 11:59:42,256 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 1/2  测试准确率 target=  False  ratings=431unknown=1459
+2021-12-06 11:59:42,258 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 11:59:42,258 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.189206% recall
+2021-12-06 11:59:42,258 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.206817% F1
+2021-12-06 11:59:42,258 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   77.195767% unknown  准确率 0.228042% 
+2021-12-06 12:00:02,565 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 2/2  测试准确率 target=  False  ratings=862unknown=2918
+2021-12-06 12:00:02,566 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 12:00:02,566 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.189206% recall
+2021-12-06 12:00:02,566 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.206817% F1
+2021-12-06 12:00:02,566 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   77.195767% unknown  准确率 0.228042% 
+2021-12-06 12:00:22,851 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 1/1  测试准确率 target=  True  ratings=431unknown=1459
+2021-12-06 12:00:22,852 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 12:00:22,852 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.189206% recall
+2021-12-06 12:00:22,852 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.206817% F1
+2021-12-06 12:00:22,852 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   77.195767% unknown  准确率 0.228042% 
+2021-12-06 12:01:17,326 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 12:01:17,575 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: params/ml-100k_90_
+2021-12-06 12:01:17,896 - /root/autodl-nas/MyCode/MyModel.py[line:421] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-06 12:01:43,149 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 1/2  测试准确率 target=  False  ratings=350unknown=1540
+2021-12-06 12:01:43,150 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.004162% cover
+2021-12-06 12:01:43,150 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.168158% recall
+2021-12-06 12:01:43,150 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.176261% F1
+2021-12-06 12:01:43,150 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   81.481481% unknown  准确率 0.185185% 
+2021-12-06 12:02:18,335 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 12:02:18,596 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: 1-31/params/ml-100k_90_
+2021-12-06 12:02:18,871 - /root/autodl-nas/MyCode/MyModel.py[line:421] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-06 12:02:43,675 - /root/autodl-nas/MyCode/MyModel.py[line:484] - INFO: 1/2  测试准确率 target=  False  ratings=33unknown=1857
+2021-12-06 12:02:43,676 - /root/autodl-nas/MyCode/MyModel.py[line:489] - INFO:   0.001189% cover
+2021-12-06 12:02:43,676 - /root/autodl-nas/MyCode/MyModel.py[line:490] - INFO:   0.188821% recall
+2021-12-06 12:02:43,676 - /root/autodl-nas/MyCode/MyModel.py[line:491] - INFO:   0.031965% F1
+2021-12-06 12:02:43,676 - /root/autodl-nas/MyCode/MyModel.py[line:493] - INFO:   98.253968% unknown  准确率 0.017460% 
+2021-12-06 12:05:27,079 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 12:05:27,377 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: 1-31/params/ml-100k
+2021-12-06 12:06:39,647 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 12:06:39,926 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: 1-31/params/ml-100k_80_
+2021-12-06 12:07:10,905 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 12:07:11,175 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: /1-31/params/ml-100k_80_
+2021-12-06 12:07:46,262 - /root/autodl-nas/MyCode/MyModel.py[line:410] - INFO: 加载模型......
+2021-12-06 12:07:46,521 - /root/autodl-nas/MyCode/MyModel.py[line:415] - INFO: 1-31/params/ml-100k_90_
+2021-12-06 12:07:46,761 - /root/autodl-nas/MyCode/MyModel.py[line:421] - INFO: 开始测试...... 用 100k数据预测100k 

@@ -1,0 +1,188 @@
+2021-11-30 19:06:46,762 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 1/1000 Reward=2209 Time=208s   Loss=2483.936083
+2021-11-30 19:06:46,762 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-11-30 19:07:11,903 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=335unknown=1555
+2021-11-30 19:07:11,903 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   82.275132% unknown  准确率 0.177249% 
+2021-11-30 19:07:32,787 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=338unknown=1552
+2021-11-30 19:07:32,788 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   82.116402% unknown  准确率 0.178836% 
+2021-11-30 19:07:32,794 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  2federated 等待参数上传中................
+2021-11-30 20:14:06,010 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 20:14:08,570 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-11-30 20:14:08,570 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  2federated 参数下载更新完成................等待训练
+2021-11-30 20:21:50,466 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 2/1000 Reward=2208 Time=4457s   Loss=3427.654081
+2021-11-30 20:21:50,467 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  2 上传参数
+2021-11-30 20:21:50,474 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  2 上传参数完成
+2021-11-30 20:21:50,475 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-11-30 20:22:15,271 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=268unknown=1622
+2021-11-30 20:22:15,271 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   85.820106% unknown  准确率 0.141799% 
+2021-11-30 20:22:35,352 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=335unknown=1555
+2021-11-30 20:22:35,353 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   82.275132% unknown  准确率 0.177249% 
+2021-11-30 20:22:35,359 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  3federated 等待参数上传中................
+2021-11-30 21:09:04,973 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 21:09:06,844 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 1s
+2021-11-30 21:09:06,845 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  3federated 参数下载更新完成................等待训练
+2021-11-30 21:16:50,540 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 3/1000 Reward=2208 Time=3255s   Loss=752.856485
+2021-11-30 21:16:50,541 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  3 上传参数
+2021-11-30 21:16:50,549 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  3 上传参数完成
+2021-11-30 21:16:50,549 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-11-30 21:17:16,216 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=380unknown=1510
+2021-11-30 21:17:16,217 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   79.894180% unknown  准确率 0.201058% 
+2021-11-30 21:17:36,244 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=386unknown=1504
+2021-11-30 21:17:36,244 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   79.576720% unknown  准确率 0.204233% 
+2021-11-30 21:17:36,252 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  4federated 等待参数上传中................
+2021-11-30 22:04:03,091 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 22:04:05,047 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 1s
+2021-11-30 22:04:05,047 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  4federated 参数下载更新完成................等待训练
+2021-11-30 22:11:49,185 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 4/1000 Reward=2208 Time=3252s   Loss=217.300360
+2021-11-30 22:11:49,186 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  4 上传参数
+2021-11-30 22:11:49,191 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  4 上传参数完成
+2021-11-30 22:11:49,191 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-11-30 22:12:13,943 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=385unknown=1505
+2021-11-30 22:12:13,944 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   79.629630% unknown  准确率 0.203704% 
+2021-11-30 22:12:33,579 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=386unknown=1504
+2021-11-30 22:12:33,579 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   79.576720% unknown  准确率 0.204233% 
+2021-11-30 22:12:33,588 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  5federated 等待参数上传中................
+2021-11-30 22:59:01,978 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 22:59:03,933 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 1s
+2021-11-30 22:59:03,934 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  5federated 参数下载更新完成................等待训练
+2021-11-30 23:06:44,448 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 5/1000 Reward=2209 Time=3250s   Loss=127.930692
+2021-11-30 23:06:44,449 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  5 上传参数
+2021-11-30 23:06:44,456 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  5 上传参数完成
+2021-11-30 23:06:44,457 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-11-30 23:07:09,470 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=301unknown=1589
+2021-11-30 23:07:09,470 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-11-30 23:07:30,076 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=343unknown=1547
+2021-11-30 23:07:30,077 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   81.851852% unknown  准确率 0.181481% 
+2021-11-30 23:07:30,087 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  6federated 等待参数上传中................
+2021-11-30 23:53:50,469 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 23:53:52,441 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 1s
+2021-11-30 23:53:52,442 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  6federated 参数下载更新完成................等待训练
+2021-12-01 00:01:34,533 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 6/1000 Reward=2209 Time=3244s   Loss=49.202199
+2021-12-01 00:01:34,535 - /root/autodl-nas/MyCode/MyModel.py[line:317] - INFO: ml-100k   6  临时保存模型
+2021-12-01 00:01:34,968 - /root/autodl-nas/MyCode/MyModel.py[line:319] - INFO: ml-100k   6  临时保存模型完成
+2021-12-01 00:01:34,968 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  6 上传参数
+2021-12-01 00:01:34,976 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  6 上传参数完成
+2021-12-01 00:01:34,977 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 00:02:00,127 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=301unknown=1589
+2021-12-01 00:02:00,127 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 00:02:21,146 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=343unknown=1547
+2021-12-01 00:02:21,146 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   81.851852% unknown  准确率 0.181481% 
+2021-12-01 00:02:21,154 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  7federated 等待参数上传中................
+2021-12-01 00:48:43,515 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 00:48:45,697 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 00:48:45,698 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  7federated 参数下载更新完成................等待训练
+2021-12-01 00:56:26,604 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 7/1000 Reward=2209 Time=3245s   Loss=10.564303
+2021-12-01 00:56:26,605 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  7 上传参数
+2021-12-01 00:56:26,613 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  7 上传参数完成
+2021-12-01 00:56:26,614 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 00:56:51,499 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=301unknown=1589
+2021-12-01 00:56:51,499 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 00:57:11,569 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 00:57:11,569 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 00:57:11,575 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  8federated 等待参数上传中................
+2021-12-01 01:43:39,701 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 01:43:42,098 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 01:43:42,099 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  8federated 参数下载更新完成................等待训练
+2021-12-01 01:51:22,834 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 8/1000 Reward=2209 Time=3251s   Loss=4.529912
+2021-12-01 01:51:22,835 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  8 上传参数
+2021-12-01 01:51:22,844 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  8 上传参数完成
+2021-12-01 01:51:22,844 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 01:51:47,134 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=301unknown=1589
+2021-12-01 01:51:47,134 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 01:52:06,654 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 01:52:06,654 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 01:52:06,660 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  9federated 等待参数上传中................
+2021-12-01 02:38:26,463 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 02:38:28,821 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 02:38:28,822 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  9federated 参数下载更新完成................等待训练
+2021-12-01 02:46:09,388 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 9/1000 Reward=2209 Time=3242s   Loss=6.296309
+2021-12-01 02:46:09,389 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  9 上传参数
+2021-12-01 02:46:09,397 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  9 上传参数完成
+2021-12-01 02:46:09,397 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 02:46:33,588 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=301unknown=1589
+2021-12-01 02:46:33,589 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 02:46:52,794 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 02:46:52,794 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 02:46:52,801 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  10federated 等待参数上传中................
+2021-12-01 03:33:14,237 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 03:33:16,631 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 03:33:16,631 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  10federated 参数下载更新完成................等待训练
+2021-12-01 03:40:58,204 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 10/1000 Reward=2209 Time=3245s   Loss=2.337897
+2021-12-01 03:40:58,205 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  10 上传参数
+2021-12-01 03:40:58,213 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  10 上传参数完成
+2021-12-01 03:40:58,213 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 03:41:23,031 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=301unknown=1589
+2021-12-01 03:41:23,031 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 03:41:43,852 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 03:41:43,853 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 03:41:43,860 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  11federated 等待参数上传中................
+2021-12-01 04:28:11,690 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 04:28:14,278 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 04:28:14,278 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  11federated 参数下载更新完成................等待训练
+2021-12-01 04:35:56,189 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 11/1000 Reward=2209 Time=3252s   Loss=2.302858
+2021-12-01 04:35:56,190 - /root/autodl-nas/MyCode/MyModel.py[line:304] - INFO: 11训练后信息 
+********************
+ml-100krate= [0.17724867724867724, 0.14179894179894179, 0.20105820105820105, 0.2037037037037037, 0.15925925925925927, 0.15925925925925927, 0.15925925925925927, 0.15925925925925927, 0.15925925925925927, 0.15925925925925927]
+ rate_target=[0.17883597883597885, 0.17724867724867724, 0.20423280423280424, 0.20423280423280424, 0.1814814814814815, 0.1814814814814815, 0.15925925925925927, 0.15925925925925927, 0.15925925925925927, 0.15925925925925927]
+ loss=[2483.936082839966, 3427.6540811657906, 752.8564847111702, 217.30036026611924, 127.93069200403988, 49.20219892356545, 10.564303494989872, 4.5299122063443065, 6.296309428056702, 2.337896521668881, 2.3028583272825927]
+********************
+2021-12-01 04:35:56,190 - /root/autodl-nas/MyCode/MyModel.py[line:311] - INFO: ml-100k   11  保存模型
+2021-12-01 04:35:56,488 - /root/autodl-nas/MyCode/MyModel.py[line:315] - INFO: ml-100k   11  保存模型完成
+2021-12-01 04:35:56,488 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  11 上传参数
+2021-12-01 04:35:56,496 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  11 上传参数完成
+2021-12-01 04:35:56,496 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 04:36:21,514 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=267unknown=1623
+2021-12-01 04:36:21,514 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   85.873016% unknown  准确率 0.141270% 
+2021-12-01 04:36:41,684 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 04:36:41,684 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 04:36:41,691 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  12federated 等待参数上传中................
+2021-12-01 05:23:08,772 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 05:23:11,387 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 05:23:11,387 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  12federated 参数下载更新完成................等待训练
+2021-12-01 05:30:51,835 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 12/1000 Reward=2209 Time=3250s   Loss=2.391269
+2021-12-01 05:30:51,836 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  12 上传参数
+2021-12-01 05:30:51,844 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  12 上传参数完成
+2021-12-01 05:30:51,844 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 05:31:16,623 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=261unknown=1629
+2021-12-01 05:31:16,623 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   86.190476% unknown  准确率 0.138095% 
+2021-12-01 05:31:37,568 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 05:31:37,568 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 05:31:37,575 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  13federated 等待参数上传中................
+2021-12-01 06:18:03,442 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 06:18:06,280 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 06:18:06,280 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  13federated 参数下载更新完成................等待训练
+2021-12-01 06:25:47,407 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 13/1000 Reward=2208 Time=3249s   Loss=2.590684
+2021-12-01 06:25:47,408 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  13 上传参数
+2021-12-01 06:25:47,417 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  13 上传参数完成
+2021-12-01 06:25:47,417 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 06:26:12,978 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=318unknown=1572
+2021-12-01 06:26:12,978 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   83.174603% unknown  准确率 0.168254% 
+2021-12-01 06:26:33,159 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=301unknown=1589
+2021-12-01 06:26:33,159 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   84.074074% unknown  准确率 0.159259% 
+2021-12-01 06:26:33,167 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  14federated 等待参数上传中................
+2021-12-01 07:13:05,840 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 07:13:08,620 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 07:13:08,620 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  14federated 参数下载更新完成................等待训练
+2021-12-01 07:20:50,464 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 14/1000 Reward=2208 Time=3257s   Loss=2.045771
+2021-12-01 07:20:50,464 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  14 上传参数
+2021-12-01 07:20:50,472 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  14 上传参数完成
+2021-12-01 07:20:50,472 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 07:21:15,264 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=318unknown=1572
+2021-12-01 07:21:15,265 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   83.174603% unknown  准确率 0.168254% 
+2021-12-01 07:21:35,294 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=267unknown=1623
+2021-12-01 07:21:35,294 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   85.873016% unknown  准确率 0.141270% 
+2021-12-01 07:21:35,301 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  15federated 等待参数上传中................
+2021-12-01 08:08:03,782 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 08:08:06,715 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 08:08:06,715 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  15federated 参数下载更新完成................等待训练
+2021-12-01 08:15:50,141 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: ml-100k  Episode 15/1000 Reward=2208 Time=3254s   Loss=1.310847
+2021-12-01 08:15:50,142 - /root/autodl-nas/MyCode/MyModel.py[line:323] - INFO: ml-100k  15 上传参数
+2021-12-01 08:15:50,148 - /root/autodl-nas/MyCode/MyModel.py[line:325] - INFO: ml-100k  15 上传参数完成
+2021-12-01 08:15:50,149 - /root/autodl-nas/MyCode/MyModel.py[line:420] - INFO: 开始测试...... 用 100k数据预测100k 
+2021-12-01 08:16:15,097 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Falseratings=318unknown=1572
+2021-12-01 08:16:15,098 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   83.174603% unknown  准确率 0.168254% 
+2021-12-01 08:16:35,606 - /root/autodl-nas/MyCode/MyModel.py[line:475] - INFO: 1/1  测试准确率 target=  Trueratings=261unknown=1629
+2021-12-01 08:16:35,606 - /root/autodl-nas/MyCode/MyModel.py[line:478] - INFO:   86.190476% unknown  准确率 0.138095% 
+2021-12-01 08:16:35,613 - /root/autodl-nas/MyCode/MyModel.py[line:236] - INFO: ml-100k  16federated 等待参数上传中................
+2021-12-01 09:02:55,420 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: ml-100k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 09:02:58,285 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: ml-100k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 09:02:58,285 - /root/autodl-nas/MyCode/MyModel.py[line:238] - INFO: ml-100k  16federated 参数下载更新完成................等待训练

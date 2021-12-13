@@ -1,0 +1,121 @@
+2021-11-30 19:27:25,073 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 1/100 Reward=2380 Time=1382s   Loss=4211.482709
+2021-11-30 20:14:05,682 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 2/100 Reward=2380 Time=2800s   Loss=878.198878
+2021-11-30 20:14:05,684 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  2  开始上传参数
+2021-11-30 20:14:05,772 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   2 参数上传完成
+2021-11-30 20:14:05,772 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   2 等待下载参数
+2021-11-30 20:21:50,778 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 20:21:53,868 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-11-30 20:21:53,868 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   2 下载参数完成更新
+2021-11-30 21:09:04,726 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 3/100 Reward=2380 Time=2830s   Loss=934.064963
+2021-11-30 21:09:04,727 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  3  开始上传参数
+2021-11-30 21:09:04,738 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   3 参数上传完成
+2021-11-30 21:09:04,738 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   3 等待下载参数
+2021-11-30 21:16:50,850 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 21:16:53,014 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-11-30 21:16:53,014 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   3 下载参数完成更新
+2021-11-30 22:04:02,843 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 4/100 Reward=2380 Time=2829s   Loss=194.272648
+2021-11-30 22:04:02,844 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  4  开始上传参数
+2021-11-30 22:04:02,854 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   4 参数上传完成
+2021-11-30 22:04:02,854 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   4 等待下载参数
+2021-11-30 22:11:49,464 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 22:11:51,726 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-11-30 22:11:51,726 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   4 下载参数完成更新
+2021-11-30 22:59:01,746 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 5/100 Reward=2380 Time=2830s   Loss=102.701148
+2021-11-30 22:59:01,747 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  5  开始上传参数
+2021-11-30 22:59:01,758 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   5 参数上传完成
+2021-11-30 22:59:01,758 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   5 等待下载参数
+2021-11-30 23:06:44,737 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-11-30 23:06:47,059 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-11-30 23:06:47,059 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   5 下载参数完成更新
+2021-11-30 23:53:49,948 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 6/100 Reward=2380 Time=2822s   Loss=72.586503
+2021-11-30 23:53:49,949 - /root/autodl-nas/MyCode/MyModel.py[line:317] - INFO: goodbooks-10k   6  临时保存模型
+2021-11-30 23:53:50,250 - /root/autodl-nas/MyCode/MyModel.py[line:319] - INFO: goodbooks-10k   6  临时保存模型完成
+2021-11-30 23:53:50,250 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  6  开始上传参数
+2021-11-30 23:53:50,258 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   6 参数上传完成
+2021-11-30 23:53:50,259 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   6 等待下载参数
+2021-12-01 00:01:35,257 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 00:01:37,810 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 00:01:37,810 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   6 下载参数完成更新
+2021-12-01 00:48:43,283 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 7/100 Reward=2379 Time=2825s   Loss=47.397738
+2021-12-01 00:48:43,284 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  7  开始上传参数
+2021-12-01 00:48:43,295 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   7 参数上传完成
+2021-12-01 00:48:43,295 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   7 等待下载参数
+2021-12-01 00:56:26,912 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 00:56:29,594 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 00:56:29,595 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   7 下载参数完成更新
+2021-12-01 01:43:39,458 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 8/100 Reward=2380 Time=2829s   Loss=38.093583
+2021-12-01 01:43:39,459 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  8  开始上传参数
+2021-12-01 01:43:39,468 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   8 参数上传完成
+2021-12-01 01:43:39,468 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   8 等待下载参数
+2021-12-01 01:51:23,124 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 01:51:25,899 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 01:51:25,899 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   8 下载参数完成更新
+2021-12-01 02:38:26,226 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 9/100 Reward=2380 Time=2820s   Loss=19.113898
+2021-12-01 02:38:26,227 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  9  开始上传参数
+2021-12-01 02:38:26,236 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   9 参数上传完成
+2021-12-01 02:38:26,236 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   9 等待下载参数
+2021-12-01 02:46:09,670 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 02:46:12,657 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 2s
+2021-12-01 02:46:12,657 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   9 下载参数完成更新
+2021-12-01 03:33:14,010 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 10/100 Reward=2380 Time=2821s   Loss=20.974344
+2021-12-01 03:33:14,011 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  10  开始上传参数
+2021-12-01 03:33:14,019 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   10 参数上传完成
+2021-12-01 03:33:14,019 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   10 等待下载参数
+2021-12-01 03:40:58,471 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 03:41:01,538 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-12-01 03:41:01,539 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   10 下载参数完成更新
+2021-12-01 04:28:10,976 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 11/100 Reward=2380 Time=2829s   Loss=11.929500
+2021-12-01 04:28:10,977 - /root/autodl-nas/MyCode/MyModel.py[line:304] - INFO: 11训练后信息 
+********************
+goodbooks-10krate= []
+ rate_target=[]
+ loss=[4211.482708930969, 878.1988776922226, 934.0649633854628, 194.27264845371246, 102.70114767551422, 72.58650318533182, 47.39773843809962, 38.09358293749392, 19.113897974602878, 20.974344314076006, 11.929500066908076]
+********************
+2021-12-01 04:28:10,977 - /root/autodl-nas/MyCode/MyModel.py[line:311] - INFO: goodbooks-10k   11  保存模型
+2021-12-01 04:28:11,450 - /root/autodl-nas/MyCode/MyModel.py[line:315] - INFO: goodbooks-10k   11  保存模型完成
+2021-12-01 04:28:11,450 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  11  开始上传参数
+2021-12-01 04:28:11,459 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   11 参数上传完成
+2021-12-01 04:28:11,459 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   11 等待下载参数
+2021-12-01 04:35:56,760 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 04:35:59,943 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-12-01 04:35:59,943 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   11 下载参数完成更新
+2021-12-01 05:23:08,529 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 12/100 Reward=2380 Time=2828s   Loss=31.406770
+2021-12-01 05:23:08,530 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  12  开始上传参数
+2021-12-01 05:23:08,538 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   12 参数上传完成
+2021-12-01 05:23:08,539 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   12 等待下载参数
+2021-12-01 05:30:52,083 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 05:30:55,407 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-12-01 05:30:55,407 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   12 下载参数完成更新
+2021-12-01 06:18:03,218 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 13/100 Reward=2380 Time=2827s   Loss=13.564135
+2021-12-01 06:18:03,219 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  13  开始上传参数
+2021-12-01 06:18:03,228 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   13 参数上传完成
+2021-12-01 06:18:03,228 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   13 等待下载参数
+2021-12-01 06:25:47,668 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 06:25:51,068 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-12-01 06:25:51,069 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   13 下载参数完成更新
+2021-12-01 07:13:05,600 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 14/100 Reward=2380 Time=2834s   Loss=8.771177
+2021-12-01 07:13:05,601 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  14  开始上传参数
+2021-12-01 07:13:05,611 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   14 参数上传完成
+2021-12-01 07:13:05,611 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   14 等待下载参数
+2021-12-01 07:20:50,736 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 07:20:54,178 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-12-01 07:20:54,178 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   14 下载参数完成更新
+2021-12-01 08:08:03,546 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 15/100 Reward=2380 Time=2829s   Loss=8.916291
+2021-12-01 08:08:03,547 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  15  开始上传参数
+2021-12-01 08:08:03,557 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   15 参数上传完成
+2021-12-01 08:08:03,557 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   15 等待下载参数
+2021-12-01 08:15:50,402 - /root/autodl-nas/MyCode/MyModel.py[line:397] - INFO: goodbooks-10k   已从服务端获得新参数 ,进行参数更新
+2021-12-01 08:15:53,974 - /root/autodl-nas/MyCode/MyModel.py[line:403] - INFO: goodbooks-10k参数更新完成.............继续训练 等待下次更新 本次更新用时 3s
+2021-12-01 08:15:53,974 - /root/autodl-nas/MyCode/MyModel.py[line:335] - INFO: goodbooks-10k   15 下载参数完成更新
+2021-12-01 09:02:54,752 - /root/autodl-nas/MyCode/MyModel.py[line:297] - INFO: goodbooks-10k  Episode 16/100 Reward=2380 Time=2820s   Loss=5.670037
+2021-12-01 09:02:54,753 - /root/autodl-nas/MyCode/MyModel.py[line:304] - INFO: 16训练后信息 
+********************
+goodbooks-10krate= []
+ rate_target=[]
+ loss=[4211.482708930969, 878.1988776922226, 934.0649633854628, 194.27264845371246, 102.70114767551422, 72.58650318533182, 47.39773843809962, 38.09358293749392, 19.113897974602878, 20.974344314076006, 11.929500066908076, 31.406769840046763, 13.56413457263261, 8.771176642272621, 8.9162906864658, 5.670037060976028]
+********************
+2021-12-01 09:02:54,753 - /root/autodl-nas/MyCode/MyModel.py[line:317] - INFO: goodbooks-10k   16  临时保存模型
+2021-12-01 09:02:55,171 - /root/autodl-nas/MyCode/MyModel.py[line:319] - INFO: goodbooks-10k   16  临时保存模型完成
+2021-12-01 09:02:55,172 - /root/autodl-nas/MyCode/MyModel.py[line:329] - INFO: goodbooks-10k  16  开始上传参数
+2021-12-01 09:02:55,180 - /root/autodl-nas/MyCode/MyModel.py[line:331] - INFO: goodbooks-10k   16 参数上传完成
+2021-12-01 09:02:55,180 - /root/autodl-nas/MyCode/MyModel.py[line:333] - INFO: goodbooks-10k   16 等待下载参数
