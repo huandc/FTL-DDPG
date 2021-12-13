@@ -1,2 +1,0 @@
-model_checkpoint_path: "goodbooks-10kmodels.h5"
-all_model_checkpoint_paths: "goodbooks-10kmodels.h5"
